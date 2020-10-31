@@ -1,2 +1,3 @@
 Hoy es Platzi day
 y estoy en la escuela de FrontEnd
+este es el primer curso y es sobre GIT Y GITHUB
