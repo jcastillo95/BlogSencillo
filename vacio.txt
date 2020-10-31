@@ -1,2 +1,2 @@
-GATO PERRO
-LOFIU
+Hoy es Platzi day
+y estoy en la escuela de FrontEnd
