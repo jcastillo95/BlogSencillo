@@ -1,2 +1,2 @@
-# BlogSencillo
+# Blog Sencillo
 Blog
